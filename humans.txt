@@ -3,7 +3,7 @@
 
 
 /* TEAM */
-  <your title>: <your name>
+  <your title>: daniel andres veliz obregon
   Site:
   Twitter:
   Location:
